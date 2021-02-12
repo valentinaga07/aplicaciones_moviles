@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Varios_Controles</string>
+    <string name="tv_titulo">Mi Super Mascota</string>
+    <string name="bt_ingresar">Ingresar</string>
+    <string name="iv_logo"></string>
+    <string name="tV_nombre_mascota">Nombre Mascota:</string>
+    <string name="eT_nombre_m"></string>
+    <string name="tV_tipo_mascota">Tipo:</string>
+    <string name="rB_perro">Perro</string>
+    <string name="rB_gato">Gato</string>
+    <string name="bT_Registrar">Registrar</string>
+</resources>
